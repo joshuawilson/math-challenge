@@ -3,7 +3,7 @@
 Installation:
 
 ```
-cd pipeline-traffic/
+cd math-challenge/
 npm install
 ```
 
